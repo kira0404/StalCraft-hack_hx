@@ -1,3 +1,4 @@
+PASS   123
 # StalCraft-hack
 # 😈Private Mason-Full cheat for STALCRAFT😈
 
