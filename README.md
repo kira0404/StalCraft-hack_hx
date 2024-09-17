@@ -18,10 +18,6 @@ Supported video cards: Nvidia
 Supported processors: Intel and AMD
 
 
-![изображение](https://github.com/user-attachments/assets/cd655cc2-728e-42d1-9688-3e1a1e1ee9b7)
-
-![изображение](https://github.com/user-attachments/assets/eb10bb30-11c6-4693-8855-d7ad58675a41)
-
 # FUNCTIONS
 
 ## AIMBOT
